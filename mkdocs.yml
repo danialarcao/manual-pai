@@ -3,7 +3,6 @@ site_url: https://spai-pgjm.github.io/manual-pai/
 theme:
   name: material
   features:
-    - navigation.tabs
     - navigation.sections
     - toc.integrate
     - navigation.top
