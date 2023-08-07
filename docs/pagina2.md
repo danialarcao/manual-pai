@@ -7,4 +7,4 @@
 ![Logo](images/logo.png)
 
 #debaixo
-![Logo](images\logo.png)
+![Logo](imagens\logo.png)
